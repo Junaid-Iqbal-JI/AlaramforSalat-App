@@ -1,3 +1,0 @@
-include ':customedittext-1.0.4'
-include ':app'
-rootProject.name = "AlarmForSalat"
