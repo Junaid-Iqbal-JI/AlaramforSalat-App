@@ -1,5 +1,5 @@
-# SALES-Insight-Dashboard
-## Sales Insights Data Analysis Project
+
+#Sales Insights Data Analysis Project
 
 
 ### Data Analysis Using SQL
