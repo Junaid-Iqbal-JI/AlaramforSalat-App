@@ -1,15 +1,3 @@
-# AlarmForSalat
-Salat time reminder application built with Kotlin for Android.
+# SALES-Insight-Dashboard
+This project deals that how data analysis projects are executed in big companies using Tableau. Our case study is based on a computer hardware business which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and he would like to build power BI dashboard that can give him real time sales insights.
 
-## Todo
-
-* Need to fix taking too much time loading alarms
-* Reloading maps with each tab change
-* Need to initialise TimeZoneMap only once and with each location change
-
-Type   | Files | Lines
--------|-------|------------
-XML    | 62    | 19620 (91%)
-Kotlin | 51    | 1695 (8%)
-Gradle | 4     | 136 (0.6%)
-Total  | 117   | 21451
